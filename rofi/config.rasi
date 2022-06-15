@@ -1,0 +1,12 @@
+configuration
+{
+	modi : "run";
+	width: 40;
+	lines: 15;
+	show-icons: true;
+	icon-theme: "Papirus";
+	combi-modi: "drun,run";
+}
+
+@theme "rdr"
+
